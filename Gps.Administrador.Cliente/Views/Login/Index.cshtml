@@ -1,0 +1,116 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayouPrincipal.cshtml";
+}
+<!-- Page Loader -->
+<!-- Page Loader Ends -->
+
+
+
+<div class="wrapper-content-sign-in ">
+    <div class="container text-center" id="Container">
+        <h1 class="form-signin-heading text-white"><i class="fa fa-trophy"></i> Login Administrador</h1>
+        <form class="form-signin1 light"  method="post">
+            <h2 class="tex-black mb-4">Iniciar Session</h2>
+            <label class="sr-only">Correo Electronico</label>
+            <input type="text" class="form-control" placeholder="Usuario" data-bind="textInput: usuario">
+            <br>
+            <label class="sr-only">Contraseña</label>
+            <input type="password" class="form-control" placeholder="Contraseña" data-bind="textInput: contrasena">
+            <br>
+            <div class="checkbox">
+                <label class="form-check-label active">
+                    <input type="checkbox" class="form-check-input">
+                    <i class="fa fa-check"></i>
+                </label>
+                Guardar Credenciales
+            </div>
+            <a href="#" type="submit" class="btn btn-lg btn-primary btn-round" data-bind="click: Ingresar" >Ingresar</a><br>
+            <a href="#" class="btn btn-link mt-2 text-white">Olvidaste tu Contraseña?</a>
+        </form>
+
+    </div>
+
+</div>
+
+<form style="display: hidden" action="/Oauth/" method="POST" id="form">
+    <input type="hidden" id="token" name="token" value="dixonraffe" />
+    <input type="hidden" id="guid" name="guid" value="" />
+</form>
+
+
+<script type="text/javascript">
+
+    ko.validation.rules.pattern.message = 'Invalid.';
+
+    ko.validation.init({
+        registerExtenders: true,
+        messagesOnModified: true,
+        insertMessages: true,
+        parseInputAttributes: true,
+        messageTemplate: null
+    }, true);
+
+
+ 
+
+
+    var ViewModel = {
+
+        
+        /* model for user credentials */
+       
+        usuario: ko.observable().extend({
+            required: true, minLength: 6, required: {
+                message: 'Ingrese la Usuario.'
+            } }),   // Initially blank
+        contrasena: ko.observable().extend({
+            required: true, minLength: 6,  required: {
+                message: 'Ingrese la Contrasena.'
+            }}),
+        
+
+
+         
+         
+         Ingresar : function () {
+
+             if (ViewModel.errors().length === 0) {
+                 var arr = { usuario: this.usuario(), contrasena: this.contrasena() };
+
+
+                 Post(arr, 'Autentificacion/login', function (data) {
+                     console.log(data);
+                     if (data.error == false) {
+                         $("#token").val(data.datos.token);
+                         $("#guid").val(data.datos.guid);
+                         $("#form").submit();
+                     } else {
+                         alert(data.errorMensaje);
+
+                     }
+
+                 }, function (data) {
+                   
+                 }
+                 );
+             }
+             else {
+                 alert('Por favor Revise los Datos.');
+                 this.errors.showAllMessages();
+             }
+
+              
+
+        }
+
+    };
+    ViewModel.errors = ko.validation.group(ViewModel);
+    ko.applyBindings(ViewModel, document.getElementById("Container"));
+
+   
+
+</script>
+
+

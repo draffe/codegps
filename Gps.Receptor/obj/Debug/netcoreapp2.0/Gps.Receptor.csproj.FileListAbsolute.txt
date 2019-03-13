@@ -1,0 +1,11 @@
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\bin\Debug\netcoreapp2.0\Gps.Receptor.deps.json
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\bin\Debug\netcoreapp2.0\Gps.Receptor.runtimeconfig.json
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\bin\Debug\netcoreapp2.0\Gps.Receptor.runtimeconfig.dev.json
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\bin\Debug\netcoreapp2.0\Gps.Receptor.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\bin\Debug\netcoreapp2.0\Gps.Receptor.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\obj\Debug\netcoreapp2.0\Gps.Receptor.csprojResolveAssemblyReference.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\obj\Debug\netcoreapp2.0\Gps.Receptor.csproj.CoreCompileInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\obj\Debug\netcoreapp2.0\Gps.Receptor.AssemblyInfoInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\obj\Debug\netcoreapp2.0\Gps.Receptor.AssemblyInfo.cs
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\obj\Debug\netcoreapp2.0\Gps.Receptor.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Receptor\obj\Debug\netcoreapp2.0\Gps.Receptor.pdb

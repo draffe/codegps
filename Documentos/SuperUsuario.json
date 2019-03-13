@@ -1,0 +1,20 @@
+{
+    "id": 8008,
+    "nombre": "Dixon Miguel",
+    "apellido": "Raffe Abreu",
+    "tipodeUsuarioEmpresa": 0,
+    "tipodeUsuarioMaestro": 0,
+    "tipodeUsuarioCliente": 2,
+    "nombreUsuario": "dixon1002@gmail.com",
+    "contrasena": "UC+o/8zJarf1p5XTLkQhfg==",
+    "estatusUsuarioFinal": 0,
+    "idEmpresa": 0,
+    "usuarioPrincipalID": 0,
+    "direccionUsuarios": null,
+    "guid": "8a0db03d-4018-4a94-bf0d-f77e6267160a",
+    "createdDate": "2019-03-03T17:51:54.6756223-03:00",
+    "updateDate": "2019-03-03T17:51:54.6762211-03:00",
+    "geocercas": null,
+    "notificacion": null,
+    "vistas": null
+}

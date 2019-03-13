@@ -1,0 +1,12 @@
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\bin\Debug\netcoreapp2.0\Gps.BasedeDatos.deps.json
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\bin\Debug\netcoreapp2.0\Gps.BasedeDatos.dll
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\Gps.BasedeDatos.csproj.CoreCompileInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\Gps.BasedeDatos.AssemblyInfoInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\Gps.BasedeDatos.AssemblyInfo.cs
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\bin\Debug\netcoreapp2.0\Gps.BasedeDatos.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\Gps.BasedeDatos.dll
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\Gps.BasedeDatos.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\bin\Debug\netcoreapp2.0\Gps.BasedeDatos.runtimeconfig.json
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\bin\Debug\netcoreapp2.0\Gps.BasedeDatos.runtimeconfig.dev.json
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Proyectos\GpsVzla\Gps\Gps.BasedeDatos\obj\Debug\netcoreapp2.0\Gps.BasedeDatos.csprojResolveAssemblyReference.cache

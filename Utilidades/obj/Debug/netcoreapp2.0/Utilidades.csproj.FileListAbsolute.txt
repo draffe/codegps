@@ -1,0 +1,8 @@
+C:\Proyectos\GpsVzla\Gps\Utilidades\bin\Debug\netcoreapp2.0\Utilidades.deps.json
+C:\Proyectos\GpsVzla\Gps\Utilidades\bin\Debug\netcoreapp2.0\Utilidades.dll
+C:\Proyectos\GpsVzla\Gps\Utilidades\obj\Debug\netcoreapp2.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\GpsVzla\Gps\Utilidades\obj\Debug\netcoreapp2.0\Utilidades.AssemblyInfoInputs.cache
+C:\Proyectos\GpsVzla\Gps\Utilidades\obj\Debug\netcoreapp2.0\Utilidades.AssemblyInfo.cs
+C:\Proyectos\GpsVzla\Gps\Utilidades\bin\Debug\netcoreapp2.0\Utilidades.pdb
+C:\Proyectos\GpsVzla\Gps\Utilidades\obj\Debug\netcoreapp2.0\Utilidades.dll
+C:\Proyectos\GpsVzla\Gps\Utilidades\obj\Debug\netcoreapp2.0\Utilidades.pdb

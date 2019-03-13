@@ -1,0 +1,13 @@
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Gps.Administrador.Cliente.deps.json
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Gps.Administrador.Cliente.runtimeconfig.json
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Gps.Administrador.Cliente.runtimeconfig.dev.json
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Gps.Administrador.Cliente.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\obj\Debug\netcoreapp2.0\Gps.Administrador.Cliente.csprojResolveAssemblyReference.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\obj\Debug\netcoreapp2.0\Gps.Administrador.Cliente.csproj.CoreCompileInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\obj\Debug\netcoreapp2.0\Gps.Administrador.Cliente.AssemblyInfoInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\obj\Debug\netcoreapp2.0\Gps.Administrador.Cliente.AssemblyInfo.cs
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Gps.Administrador.Cliente.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\obj\Debug\netcoreapp2.0\Gps.Administrador.Cliente.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\obj\Debug\netcoreapp2.0\Gps.Administrador.Cliente.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Utilidades.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Cliente\bin\Debug\netcoreapp2.0\Utilidades.pdb

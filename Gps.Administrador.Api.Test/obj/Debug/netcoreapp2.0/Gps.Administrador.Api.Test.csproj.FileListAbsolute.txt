@@ -1,0 +1,14 @@
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.deps.json
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.runtimeconfig.json
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.runtimeconfig.dev.json
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\bin\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\obj\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.csproj.CoreCompileInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\obj\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.AssemblyInfoInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\obj\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.AssemblyInfo.cs
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\obj\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\obj\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.Administrador.Api.Test\obj\Debug\netcoreapp2.0\Gps.Administrador.Api.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\bin\Debug\netcoreapp2.0\Gps.Seguridad.deps.json
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\bin\Debug\netcoreapp2.0\Gps.Seguridad.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\bin\Debug\netcoreapp2.0\Gps.Seguridad.pdb
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\obj\Debug\netcoreapp2.0\Gps.Seguridad.csprojResolveAssemblyReference.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\obj\Debug\netcoreapp2.0\Gps.Seguridad.csproj.CoreCompileInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\obj\Debug\netcoreapp2.0\Gps.Seguridad.AssemblyInfoInputs.cache
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\obj\Debug\netcoreapp2.0\Gps.Seguridad.AssemblyInfo.cs
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\obj\Debug\netcoreapp2.0\Gps.Seguridad.dll
+C:\Proyectos\GpsVzla\Gps\Gps.Seguridad\obj\Debug\netcoreapp2.0\Gps.Seguridad.pdb

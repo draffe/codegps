@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet"  href="~/css/font-awesome.min.css" type="text/css">
+     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <script src="~/lib/jquery/dist/jquery-2.1.1.min.js"></script>
+
+    <script src="~/js/UtilityRequest.js"></script>
+    <!-- Adminux CSS -->
+    <link rel="stylesheet"  href="~/css/dark_blue_adminux.css" type="text/css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <script data-require="knockout-validation@2.0.3" data-semver="2.0.3" src="https://cdn.jsdelivr.net/knockout.validation/2.0.3/knockout.validation.min.js"></script>
+</head>
+<body>
+    <div>
+        <div class="loader_wrapper inner align-items-center text-center">
+            <div class="load7 load-wrapper">
+                <div class="loading_img"></div>
+                <div class="loader"> Cargando... </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+        <header class="navbar-fixed">
+            <nav class="navbar navbar-toggleable-md sign-in-header">
+                <div class="sidebar-left"> <a class="navbar-brand imglogo" href="index.html"></a> </div>
+                <div class="col"></div>
+                <div class="sidebar-right pull-right">
+                    <ul class="navbar-nav  justify-content-end">
+                        <li><a href="#" class="btn btn-link text-white">Necesita Ayuda ?</a></li>
+
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        @RenderBody()
+    </div>
+    <footer class="footer-content row  justify-content-between align-items-center">
+        <div class="col-sm-8">made with love <a href="http://www.gpsvzla.com" target="_blank" class="">GPSVZLA</a></div>
+        <div class="col-sm-8 text-right"><a href="#" target="_blank" class="">Politicas de Privacidad</a> | <a href="#" target="_blank" class="">Terminos de uso</a> </div>
+    </footer>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+
+    <script src="~/lib/jquery/dist/jquery.cookie.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="../js/ie10-viewport-bug-workaround.js"></script>
+     
+    <script>
+        "use strict";
+        $('input[type="checkbox"]').on('change', function () {
+            $(this).parent().toggleClass("active")
+            $(this).closest(".media").toggleClass("active");
+        });
+        $(window).on("load", function () {
+            /* loading screen */
+            $(".loader_wrapper").fadeOut("slow");
+        });
+    </script>
+
+
+   
+</body>
+</html>

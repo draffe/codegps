@@ -1,0 +1,125 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cliente", "Cliente", "{749C4DA8-4334-41BC-9600-656EDCF65DC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Administrador", "Administrador", "{CAE9759B-8E5B-4855-BCE8-44F9BECAF0F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Receptor", "Receptor", "{942FF9B7-9586-49A8-A32D-E89C9A3A8AB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.Administrador.Apis", "Gps.Administrador.Apis\Gps.Administrador.Apis.csproj", "{91E0B6B9-8323-4824-BC59-9B24FC0B02FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.Cliente.Apis", "Gps.Cliente.Apis\Gps.Cliente.Apis.csproj", "{785CCC20-8C71-424C-9A19-897FAFDAAC0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libreria", "Libreria", "{17C87627-5472-4173-A6F1-6EDA2D248748}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.BasedeDatos", "Gps.BasedeDatos\Gps.BasedeDatos.csproj", "{CCBA091E-7D8F-48FF-B4F4-37AC87D76797}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pruebas", "Pruebas", "{189D87F8-E9F6-46A3-AD09-BA7F31B83DA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.Administrador.Api.Test", "Gps.Administrador.Api.Test\Gps.Administrador.Api.Test.csproj", "{EF9D5B4A-913E-46A2-9B85-4A04C8C15B63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.Receptor", "Gps.Receptor\Gps.Receptor.csproj", "{877F66BE-C6C3-450E-BD81-B71F68F1B1FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.Administrador.Cliente", "Gps.Administrador.Cliente\Gps.Administrador.Cliente.csproj", "{D8D01664-7974-483F-A499-2DF0CC60C72D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gps.Seguridad", "Gps.Seguridad\Gps.Seguridad.csproj", "{9515F045-C456-4E18-BA22-F7BDBC9CF18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilidades", "Utilidades\Utilidades.csproj", "{2F71577F-02E2-4ADD-8859-C42EF0A10487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E0B6B9-8323-4824-BC59-9B24FC0B02FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E0B6B9-8323-4824-BC59-9B24FC0B02FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E0B6B9-8323-4824-BC59-9B24FC0B02FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E0B6B9-8323-4824-BC59-9B24FC0B02FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785CCC20-8C71-424C-9A19-897FAFDAAC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785CCC20-8C71-424C-9A19-897FAFDAAC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785CCC20-8C71-424C-9A19-897FAFDAAC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785CCC20-8C71-424C-9A19-897FAFDAAC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBA091E-7D8F-48FF-B4F4-37AC87D76797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBA091E-7D8F-48FF-B4F4-37AC87D76797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBA091E-7D8F-48FF-B4F4-37AC87D76797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBA091E-7D8F-48FF-B4F4-37AC87D76797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9D5B4A-913E-46A2-9B85-4A04C8C15B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9D5B4A-913E-46A2-9B85-4A04C8C15B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9D5B4A-913E-46A2-9B85-4A04C8C15B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9D5B4A-913E-46A2-9B85-4A04C8C15B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877F66BE-C6C3-450E-BD81-B71F68F1B1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877F66BE-C6C3-450E-BD81-B71F68F1B1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877F66BE-C6C3-450E-BD81-B71F68F1B1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877F66BE-C6C3-450E-BD81-B71F68F1B1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D01664-7974-483F-A499-2DF0CC60C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D01664-7974-483F-A499-2DF0CC60C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D01664-7974-483F-A499-2DF0CC60C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D01664-7974-483F-A499-2DF0CC60C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9515F045-C456-4E18-BA22-F7BDBC9CF18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9515F045-C456-4E18-BA22-F7BDBC9CF18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9515F045-C456-4E18-BA22-F7BDBC9CF18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9515F045-C456-4E18-BA22-F7BDBC9CF18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F71577F-02E2-4ADD-8859-C42EF0A10487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F71577F-02E2-4ADD-8859-C42EF0A10487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F71577F-02E2-4ADD-8859-C42EF0A10487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F71577F-02E2-4ADD-8859-C42EF0A10487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91E0B6B9-8323-4824-BC59-9B24FC0B02FF} = {CAE9759B-8E5B-4855-BCE8-44F9BECAF0F8}
+		{785CCC20-8C71-424C-9A19-897FAFDAAC0E} = {749C4DA8-4334-41BC-9600-656EDCF65DC9}
+		{CCBA091E-7D8F-48FF-B4F4-37AC87D76797} = {17C87627-5472-4173-A6F1-6EDA2D248748}
+		{EF9D5B4A-913E-46A2-9B85-4A04C8C15B63} = {189D87F8-E9F6-46A3-AD09-BA7F31B83DA2}
+		{877F66BE-C6C3-450E-BD81-B71F68F1B1FA} = {942FF9B7-9586-49A8-A32D-E89C9A3A8AB3}
+		{D8D01664-7974-483F-A499-2DF0CC60C72D} = {CAE9759B-8E5B-4855-BCE8-44F9BECAF0F8}
+		{9515F045-C456-4E18-BA22-F7BDBC9CF18A} = {17C87627-5472-4173-A6F1-6EDA2D248748}
+		{2F71577F-02E2-4ADD-8859-C42EF0A10487} = {17C87627-5472-4173-A6F1-6EDA2D248748}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B30CEA20-F9CF-40A7-91EE-AA485FAF206C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://desarrollovzla.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Gps.Administrador.Apis\\Gps.Administrador.Apis.csproj
+		SccProjectTopLevelParentUniqueName1 = GPS.sln
+		SccProjectName1 = Gps.Administrador.Apis
+		SccLocalPath1 = Gps.Administrador.Apis
+		SccProjectUniqueName2 = Gps.Cliente.Apis\\Gps.Cliente.Apis.csproj
+		SccProjectTopLevelParentUniqueName2 = GPS.sln
+		SccProjectName2 = Gps.Cliente.Apis
+		SccLocalPath2 = Gps.Cliente.Apis
+		SccProjectUniqueName3 = Gps.BasedeDatos\\Gps.BasedeDatos.csproj
+		SccProjectTopLevelParentUniqueName3 = GPS.sln
+		SccProjectName3 = Gps.BasedeDatos
+		SccLocalPath3 = Gps.BasedeDatos
+		SccProjectUniqueName4 = Gps.Administrador.Api.Test\\Gps.Administrador.Api.Test.csproj
+		SccProjectTopLevelParentUniqueName4 = GPS.sln
+		SccProjectName4 = Gps.Administrador.Api.Test
+		SccLocalPath4 = Gps.Administrador.Api.Test
+		SccProjectUniqueName5 = Gps.Receptor\\Gps.Receptor.csproj
+		SccProjectTopLevelParentUniqueName5 = GPS.sln
+		SccProjectName5 = Gps.Receptor
+		SccLocalPath5 = Gps.Receptor
+		SccProjectUniqueName6 = Gps.Administrador.Cliente\\Gps.Administrador.Cliente.csproj
+		SccProjectTopLevelParentUniqueName6 = GPS.sln
+		SccProjectName6 = Gps.Administrador.Cliente
+		SccLocalPath6 = Gps.Administrador.Cliente
+		SccProjectUniqueName7 = Gps.Seguridad\\Gps.Seguridad.csproj
+		SccProjectTopLevelParentUniqueName7 = GPS.sln
+		SccProjectName7 = Gps.Seguridad
+		SccLocalPath7 = Gps.Seguridad
+		SccProjectUniqueName8 = Utilidades\\Utilidades.csproj
+		SccProjectTopLevelParentUniqueName8 = GPS.sln
+		SccProjectName8 = Utilidades
+		SccLocalPath8 = Utilidades
+	EndGlobalSection
+EndGlobal
